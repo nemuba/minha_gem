@@ -11,6 +11,7 @@ gem "propshaft"
 
 group :development, :test do
   gem "rspec-rails"
+  gem "rspec_junit_formatter"
 end
 
 # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
