@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors     = [ "Alef ojeda de Oliveira" ]
   spec.email       = [ "nemubatubag@gmail.com" ]
   spec.homepage    = "https://github.com/nemuba/minha_gem"
-  spec.summary     = "TODO: Summary of MinhaGem."
-  spec.description = "TODO: Description of MinhaGem."
+  spec.summary     = "Minha Gem"
+  spec.description = "Uma descrição da minha gem"
   spec.license     = "MIT"
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
