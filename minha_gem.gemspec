@@ -15,4 +15,9 @@ Gem::Specification.new do |spec|
   end
 
   spec.add_dependency "rails", ">= 8.0.2"
+
+  # Dependências de desenvolvimento / teste
+  spec.add_development_dependency "rspec-rails"
+  spec.add_development_dependency "rubocop"
+  spec.add_development_dependency "rubocop-rails-omakase"
 end
